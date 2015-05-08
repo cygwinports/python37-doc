@@ -1,5 +1,5 @@
 NAME="python3-doc"
-VERSION=3.2.3
+VERSION=3.4.3
 RELEASE=1
 CATEGORY="Doc"
 SUMMARY="Py3K HTML documentation"
