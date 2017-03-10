@@ -1,5 +1,5 @@
 NAME="python3-doc"
-VERSION=3.4.3
+VERSION=3.4.5
 RELEASE=1
 CATEGORY="Doc"
 SUMMARY="Py3K HTML documentation"
@@ -12,6 +12,7 @@ SRC_URI="http://docs.python.org/ftp/python/doc/${VERSION}/python-${VERSION}-docs
 SRC_DIR="python-${VERSION}-docs-html"
 
 ARCH=noarch
+RESTRICT="postinst-doc"
 
 src_compile() { :; }
 
