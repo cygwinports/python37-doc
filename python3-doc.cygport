@@ -1,6 +1,6 @@
 NAME="python3-doc"
-VERSION=3.4.5
-RELEASE=1
+VERSION=3.6.1
+RELEASE=0.1.rc1
 CATEGORY="Doc"
 SUMMARY="Py3K HTML documentation"
 DESCRIPTION="Python is an interpreted, interactive object-oriented programming
@@ -8,8 +8,8 @@ language suitable (amongst other uses) for distributed application development,
 scripting, numeric computing and system testing.  Python is often compared to
 Tcl, Perl, Java, JavaScript, Visual Basic or Scheme."
 HOMEPAGE="http://www.python.org/"
-SRC_URI="http://docs.python.org/ftp/python/doc/${VERSION}/python-${VERSION}-docs-html.tar.bz2"
-SRC_DIR="python-${VERSION}-docs-html"
+SRC_URI="http://docs.python.org/ftp/python/doc/${VERSION}/python-${VERSION}rc1-docs-html.tar.bz2"
+SRC_DIR="python-${VERSION}rc1-docs-html"
 
 ARCH=noarch
 RESTRICT="postinst-doc"
