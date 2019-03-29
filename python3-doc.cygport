@@ -1,5 +1,5 @@
 NAME="python37-doc"
-VERSION=3.7.2
+VERSION=3.7.3
 RELEASE=1
 CATEGORY="Doc"
 SUMMARY="Python 3.7 HTML documentation"
